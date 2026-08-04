@@ -92,7 +92,7 @@ This project uses the **Spoonacular API** to fetch recipe data.
 **Birendra Gupta**
 
 - Full Stack Software Developer
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/biru068
 
 ## 📄 License
 
