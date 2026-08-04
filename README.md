@@ -91,7 +91,9 @@ This project uses the **Spoonacular API** to fetch recipe data.
 
 **Birendra Gupta**
 
-- Full Stack Software Developer
+- React.js Developer
+- Full Stack Web Developer
+- 12+ Years of Software Development Experience
 - GitHub: https://github.com/biru068
 
 ## 📄 License
